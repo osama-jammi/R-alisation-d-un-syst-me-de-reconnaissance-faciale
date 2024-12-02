@@ -1,0 +1,10 @@
+psycopg2-binary>=2.9
+numpy>=1.21.0
+opencv-python>=4.5.1
+face_recognition>=1.3.0
+pandas>=1.3.0
+fpdf>=1.7.2
+matplotlib>=3.4.0
+imapclient>=2.2.0
+PyQt5>=5.15.0
+Pillow>=8.2.0
