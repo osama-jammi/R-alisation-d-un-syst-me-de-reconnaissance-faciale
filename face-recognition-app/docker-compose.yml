@@ -1,0 +1,19 @@
+services:
+  pythonapp:
+    build: ./python/
+    command: sh -c "sleep 10 && python3 ./AbsenceManagerHome.py"
+    depends_on:
+      - mysql
+    environment:
+      DISPLAY: ${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+
+  mysql:
+    build: ./mysql/
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'miniproject'
+      MYSQL_ROOT_PASSWORD: 'root'
+    ports:
+      - '3306:3306'
