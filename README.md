@@ -22,6 +22,9 @@ Project Structure
 bash
 Copy code
 FACE-RECOGNITION-APP/
+
+
+
 │
 ├── app/
 │   ├── recorder.py                     
@@ -38,6 +41,10 @@ FACE-RECOGNITION-APP/
 │   ├── requirements.txt
 ├── docker-compose.yml                 
 └── README.md  # Project documentation
+
+
+
+
 Prerequisites
 Install Docker: Download Docker from Docker official website.
 Install Docker Compose: Download Docker Compose from Docker Compose official page.
