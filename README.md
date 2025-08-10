@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: support@absence-manager.com
+- 📧 **Email**: osama.jammi@gmail.com-manager.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/face-recognition-app/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/yourusername/face-recognition-app/wiki)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/face-recognition-app/discussions)
